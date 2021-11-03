@@ -1,0 +1,11 @@
+Calculator by Mangyan Coding
+
+Updated from the Java and VB.net version.
+
+Left is java App              Right is CSharp made App
+
+1. Displays zero (0) at the start.
+2. When you clicked a number, zero(0) is removed.
+3. You can only click the point(.) button once.
+   You can click again if you after clicking an operator or equals.
+4. Added Messagebox after operation and resets the display to zero(0).
